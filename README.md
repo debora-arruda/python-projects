@@ -47,7 +47,7 @@ python rock_paper_scissors_gui.py
 ## 📚 O que aprendi
 
 - Lógica condicional (`if/elif/else`) para definir regras do jogo
-- Geração de escolhas aleatórias com `random.choice()`
+- Geração de escolhas aleatórias com `random.choice()` 
 - Criação de interfaces gráficas simples com Tkinter
 - Manipulação de strings e entrada do usuário
 
